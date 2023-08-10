@@ -17,3 +17,12 @@ This project was built using these technologies.
 - VsCode
 - Photoshop
 
+<h2> Features </h2>
+
+ - **Single-Page Layout**
+
+ - **Styled with HTML5 and CSS3 with easy to customize colors**
+
+ - **Fully Responsive**
+
+   
