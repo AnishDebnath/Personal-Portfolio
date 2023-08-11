@@ -25,4 +25,15 @@ This project was built using these technologies.
 
  - **Fully Responsive**
 
-   
+<h1> Screenshot: </h1>
+
+![Screenshot 2](https://github.com/AnishDebnath/Personal-Portfolio/assets/118295754/9313ea8e-0598-4de5-8551-a1a507cb9170)
+
+It features some of my github projects that showcase my skills and expertise in various areas. These projects represent my journey in software development and my commitment to learning and innovation. Each project reflects my dedication to exploring diverse technologies and tackling real-world challenges.
+
+<h1>Live Demo</h1>
+
+https://anishdebnath.github.io/Personal-Portfolio/
+
+---
+© 2023 Anish Debnath
