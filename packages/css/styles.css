@@ -524,39 +524,47 @@ img {
 }
 
 .skills__figma {
-  width: 70%;
+  width: 85%;
 }
 
-.skills__sketch {
+/* .skills__sketch {
   width: 55%;
-}
+} */
 
 .skills__wordpress {
   width: 60%;
 }
 
 .skills__html {
-  width: 90%;
+  width: 95%;
 }
 
 .skills__css {
-  width: 75%;
+  width: 95%;
 }
 
 .skills__javascript {
-  width: 60%;
-}
-
-.skills__google {
   width: 70%;
 }
 
-.skills__java {
+.skills__angular {
   width: 80%;
 }
 
+.skills__typescript {
+  width: 60%;
+}
+
+.skills__bootstrap {
+  width: 85%;
+}
+
+.skills__java {
+  width: 60%;
+}
+
 .skills__php {
-  width: 80%;
+  width: 55%;
 }
 
 .skills__mysql {
@@ -565,6 +573,18 @@ img {
 
 .skills__python {
   width: 45%;
+}
+
+.skills__git {
+  width: 80%;
+}
+
+.skills__github {
+  width: 85%;
+}
+
+.skills__jira {
+  width: 60%;
 }
 
 .skills__close .skills__list {
