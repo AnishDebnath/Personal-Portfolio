@@ -6,7 +6,7 @@ It is my portfolio that exemplifies my beliefs, skills, qualifications, educatio
 
 <h2> Built With </h2>
 
-My personal portfolio <a href="https://anishdebnath.github.io/Personal-Portfolio/" target="_blank">anish.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://anishdebnath.github.io/Personal-Portfolio/" target="_blank">www.anish.com</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
