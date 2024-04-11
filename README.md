@@ -33,7 +33,7 @@ It features some of my github projects that showcase my skills and expertise in 
 
 <h1>Live Demo</h1>
 
-https://anishdebnath.github.io/Personal-Portfolio/
+[www.anishdebnath.com](https://anishdebnath.netlify.app/)
 
 ---
 © 2023 Anish Debnath
