@@ -21,7 +21,7 @@
 
 <hr>
 
-![Screenshot](https://github.com/AnishDebnath/Personal-Portfolio/assets/118295754/2d52b4bf-de45-4e30-9a53-c9efb2dec5c4)
+![2](https://github.com/user-attachments/assets/8dbe24b2-91b2-4c3f-8aa1-24a619c6213a)
 
 <h2>🧰 Built With </h2>
 
@@ -48,7 +48,9 @@ This project was built using these technologies.
 
 <h2>📸 Screenshots</h2>
 
-![Screenshot 2](https://github.com/AnishDebnath/Personal-Portfolio/assets/118295754/9313ea8e-0598-4de5-8551-a1a507cb9170)
+![3](https://github.com/user-attachments/assets/f07d9748-f7ab-4178-a8b6-1647d4695c7c)
+
+![4](https://github.com/user-attachments/assets/cc3b4353-a536-477e-8ece-48af4467d626)
 
 It features some of my github projects that showcase my skills and expertise in various areas. These projects represent my journey in web development and my commitment to learning and innovation. Each project reflects my dedication to exploring diverse technologies and tackling real-world challenges.
 
